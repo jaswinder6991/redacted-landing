@@ -75,7 +75,7 @@ const handleSubmit = async (e: React.FormEvent) => {
                 <p className="text-gray-600 mb-4">
                   DirectTransfer simplifies the process of transferring USDC from NEAR to Ethereum. 
                   Unlike the complex Rainbow bridge, our solution offers a straightforward, 
-                  easy-to-understand process that removes the fear and uncertainty from cross-chain transfers.
+                  easy-to-understand process that removes the fear and uncertainty from cross-chain transfers. Try the app <a href="https://bridgeless.netlify.app" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">here</a> on testnet.
                 </p>
               </CardContent>
               <CardContent className="pt-0">
